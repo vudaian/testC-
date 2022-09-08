@@ -1,0 +1,30 @@
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\bin\Debug\net6.0\Check_number.exe
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\bin\Debug\net6.0\Check_number.deps.json
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\bin\Debug\net6.0\Check_number.runtimeconfig.json
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\bin\Debug\net6.0\Check_number.dll
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\bin\Debug\net6.0\Check_number.pdb
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\obj\Debug\net6.0\Check_number.csproj.AssemblyReference.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\obj\Debug\net6.0\Check_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\obj\Debug\net6.0\Check_number.AssemblyInfoInputs.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\obj\Debug\net6.0\Check_number.AssemblyInfo.cs
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\obj\Debug\net6.0\Check_number.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\obj\Debug\net6.0\Check_number.dll
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\obj\Debug\net6.0\refint\Check_number.dll
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\obj\Debug\net6.0\Check_number.pdb
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\obj\Debug\net6.0\Check_number.genruntimeconfig.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Check_number\obj\Debug\net6.0\ref\Check_number.dll
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\bin\Debug\net6.0\Check_number.exe
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\bin\Debug\net6.0\Check_number.deps.json
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\bin\Debug\net6.0\Check_number.runtimeconfig.json
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\bin\Debug\net6.0\Check_number.dll
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\bin\Debug\net6.0\Check_number.pdb
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\obj\Debug\net6.0\Check_number.csproj.AssemblyReference.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\obj\Debug\net6.0\Check_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\obj\Debug\net6.0\Check_number.AssemblyInfoInputs.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\obj\Debug\net6.0\Check_number.AssemblyInfo.cs
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\obj\Debug\net6.0\Check_number.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\obj\Debug\net6.0\Check_number.dll
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\obj\Debug\net6.0\refint\Check_number.dll
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\obj\Debug\net6.0\Check_number.pdb
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\obj\Debug\net6.0\Check_number.genruntimeconfig.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Bai 1\obj\Debug\net6.0\ref\Check_number.dll

@@ -1,0 +1,15 @@
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\bin\Debug\net6.0\Kiem tra so am so duong.exe
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\bin\Debug\net6.0\Kiem tra so am so duong.deps.json
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\bin\Debug\net6.0\Kiem tra so am so duong.runtimeconfig.json
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\bin\Debug\net6.0\Kiem tra so am so duong.dll
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\bin\Debug\net6.0\Kiem tra so am so duong.pdb
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\obj\Debug\net6.0\Kiem tra so am so duong.csproj.AssemblyReference.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\obj\Debug\net6.0\Kiem tra so am so duong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\obj\Debug\net6.0\Kiem tra so am so duong.AssemblyInfoInputs.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\obj\Debug\net6.0\Kiem tra so am so duong.AssemblyInfo.cs
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\obj\Debug\net6.0\Kiem tra so am so duong.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\obj\Debug\net6.0\Kiem tra so am so duong.dll
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\obj\Debug\net6.0\refint\Kiem tra so am so duong.dll
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\obj\Debug\net6.0\Kiem tra so am so duong.pdb
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\obj\Debug\net6.0\Kiem tra so am so duong.genruntimeconfig.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Kiem tra so am so duong\obj\Debug\net6.0\ref\Kiem tra so am so duong.dll
